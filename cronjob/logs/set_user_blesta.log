@@ -1,0 +1,109 @@
+maryanna@egis-indonesia.co.idstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+recalaytrading@indo.tradingstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+rahmi@msc-ads.comstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+invalid email1247368585@qq.com @indo.net.idstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+sonny@dymarjaya.o.idstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+gc@sahideminencepuncak.comstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+achmad.triansyah@yudhabakti.co.idstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+robby@icdxchange.comstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+putrirenosari@thesahta.co.idstdClass Object
+(
+    [email] => stdClass Object
+        (
+            [format] => Invalid email address.
+        )
+
+)
+nagajambi@Indo.net.id<pre>Array
+(
+    [vars] => Array
+        (
+            [username] => nagajambi@Indo.net.id
+            [new_password] => myportal2021#
+            [confirm_password] => myportal2021#
+            [client_group_id] => 2
+            [first_name] => nagajambi@Indo.net.id
+            [last_name] => Indonet
+            [title] => 
+            [company] => 
+            [email] => nagajambi@Indo.net.id
+            [address1] => 
+            [address2] => 
+            [city] => 
+            [state] => 
+            [zip] => 
+            [country] => ID
+            [numbers] => 
+            [send_registration_email] => 
+            [settings] => Array
+                (
+                    [username_type] => username
+                    [default_currency] => IDR
+                    [language] => en_us
+                )
+
+            [custom] => Array
+                (
+                    [1] => 0028917425
+                )
+
+        )
+
+)
+createNewUser Blesta success id=> 1668 username => nagajambi@Indo.net.id ax id => 0028917425
